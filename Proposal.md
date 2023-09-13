@@ -2,11 +2,9 @@
 
 ## Problem
 
-Around 3 million people per year develop pressure sores, with over 500,000 cases requiring extended hospitalization. Wheelchair users face a higher risk of developing pressure sores and their best solution today is to manually adjust every 15-30 minutes.
+Approximately 3 million people develop pressure sores every year, and over 500,000 cases require extended hospitalization. Wheelchair users face a higher risk of developing pressure sores and their best solution today is to manually adjust every 15-30 minutes. However, those with limited mobility and/or sensation are at a higher risk of developing pressure sores. This group of wheelchair users may struggle with manual readjustments and/or with feeling when a readjustment is needed (Robinson et al., 2023).
 
-However, not all wheelchair users are able to readjust their seat position when needed (e.g., those with limited mobility). Those with limited sensation are at an even higher risk of developing pressure sores since they are unable to feel when a readjustment is needed.
-
-While cushions provide some relief to wheelchair users, the solution they offer is static, limited, and does not eliminate the risk of pressure sores. Currently, research into dynamic solutions is limited and no commercially available solution exists.
+While conventional cushions provide some relief, the solution they offer is static, limited, and does not eliminate the risk of pressure sores due to its inability to adapt to the user. Moreover, research into dynamic solutions is limited and no commercially available dynamic solution exists.
 
 ## Solution
 
@@ -16,11 +14,17 @@ We will be collaborating with Dr.Golecki’s group where we will handle the elec
 
 ## Visual Aid
 
+![](/images/Visual%20Aid%20-%20High-Level%20Schematic%20.png)
+
 ## High-Level Requirements
 
-- The dynamic seat cushion fits within the dimensions 22in Wide x 15in Deep x 4in High so as to contrain the product to an appropriate size for standard wheelchairs.
-- The sensor array detects when the time threshold is met for each area that meets or exceed the pressure threshold. The time threshold is set by the user in multiples of 5 minutes. The pressure threshold is to be defined (options include user-set PSI, percentage of high-low differential, etc.).
-- When an area meets the time and pressure thresholds, the cushion bladder inflates in surrounding areas to a new pressure that drops the original area's pressure below the pressure threshold.
+- The dynamic seat cushion fits within the dimensions 22in. Wide x 15in. Deep x 4in. High, which is suitable for standard wheelchairs.
+
+- The sensor array signals the microcontroller when a target area exceeds the pressure threshold. While this signal is high, the microcontroller counts down to determine if the target meets the time threshold.
+
+- When both thresholds are met, the microcontroller inflates areas surrounding a target such that the target drops below the pressure threshold.
+
+![](/images/Visual%20Aid%20-%20Thresholds.png)
 
 # 2. Design
 
