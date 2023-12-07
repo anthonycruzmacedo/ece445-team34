@@ -1,5 +1,7 @@
 # Angelica Worklog
-## 09/26 TA Meeting Notes
+## Meeting Notes
+---
+## 09/26 Meeting with Jeff
 - things to ask during meeting
 - subsystem requirements
 - schematic/PCB, ask if they have a layout
@@ -10,7 +12,7 @@
 - block diagram is ok, add paragraph
 - glance at ethics
 
-## 09/26 Golecki Meeting Notes
+## 09/26 Golecki Meeting
 ### topics
 - are there any subsystem requirements (eric)
 - schematic so that we can make it into a PCB
@@ -65,3 +67,47 @@
 - dont use the vacuum and just connect both
 - 3mm outer diameter, 2mm inner diameter for the tubing (but manifold may be different than the pump)
 - look at the slides for circuit diagram and such
+---
+## Work Notes
+---
+### Week of 09/12
+- first meeting with Golecki
+### Week of 09/19
+- figuring out details with Golecki
+### Week of 09/26
+- ideation
+- parts research
+### Week of 10/03
+- more PCB routing
+### Week of 10/10
+- PCB routing
+### Week of 10/17
+- ordered parts
+- PCB routing
+### Week of 10/24
+- assembly
+### Week of 10/31
+- wrote documentation
+- assembled sensor array
+### Week of 11/7
+- solder PCB, surface mount
+- order extra parts
+### Week of 11/13-15
+- solder PCB and gather last minute parts
+- figure out UI circuitry
+### Break
+- worked on presentation and final report
+### Week of 11/28-29
+- working on putting every single thing together lol
+- finalizing PCB construction and soldering
+- connection PCB to microcontroller and everything to the pneumatic controller
+- debugging
+### 11/30
+- met online to divide up slides
+### 12/01
+- presented for mock presentation
+### 12/04
+- final presentation
+### 12/05
+- discussed final report and how to divide up tasks
+- work session for final report
