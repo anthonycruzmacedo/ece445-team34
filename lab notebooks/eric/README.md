@@ -24,7 +24,7 @@
 ### Week of 10/24
 - Meeting with Harvard group for pneumatic controller
 ### Week of 10/31
-- wrote documentation
+- design power management with the pneumatic controller
 - FSR assembly
 - Start programming Pneumatic controller
 ### Week of 11/7
