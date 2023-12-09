@@ -14,7 +14,7 @@ We will be collaborating with Dr.Golecki’s group where we will handle the elec
 
 ## Visual Aid
 
-![](/images/Visual%20Aid%20-%20High-Level%20Schematic%20.png)
+![](/images/Visual%20Diagram.png)
 
 ## High-Level Requirements
 
