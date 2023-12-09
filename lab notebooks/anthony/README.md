@@ -28,9 +28,9 @@
 - Researched parts needed for project.
 - Worked with group to finalize design document and prepare for upcoming review.
 
-![Visual Aid](./images/Visual-Aid.png)
+![Visual Aid](/images/Visual-Aid.png)
 
-![FSR Circuir](./images/FSR-Array.png)
+![FSR Circuit](/images/FSR-Array.png)
 
 ### Week of 10/09
 
@@ -71,6 +71,8 @@
 - Completed final demonstration of project.
 - Completed work on final presentation slides for UI, sensor array, and R&V.
 - Completed mock presentation for feedback and implemented suggestions.
+
+![In-Box Project](/images/in-box.jpg)
 
 ### 12/04
 
