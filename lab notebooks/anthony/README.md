@@ -28,7 +28,7 @@
 - Researched parts needed for project.
 - Worked with group to finalize design document and prepare for upcoming review.
 
-![Visual Aid][../Visual Aid.png]
+![Visual Aid][../Visual-Aid.png]
 
 ### Week of 10/09
 
